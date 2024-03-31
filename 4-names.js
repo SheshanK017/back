@@ -1,5 +1,5 @@
 //local
-const secret="hello"
+const secret="hello john and peter"
 
 //shared
 const john='john'
